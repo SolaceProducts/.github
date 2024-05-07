@@ -9,7 +9,7 @@
 
 </div>
 
-## Hi there 👋 Welcome to the SolaceProducts Github Organization! 
+## Welcome to the SolaceProducts Github Organization! 
 
 SolaceProducts offers a repositories containing open source Solace Products. You can use these projects to integrate with, and use, Solace PubSub+ products.
 
