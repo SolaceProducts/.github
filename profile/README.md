@@ -18,9 +18,7 @@ SolaceProducts offers a repositories containing open source Solace Products. You
 
 🍿 Explore a project that you're interested in
 
-📖 Read the Contribution guide for each project
-
-🥳 Contribute to a project by opening a pull-request
+🥳 Have a feature request? Open an enhancement to get it on our radar
 
 🪲 Find a bug? Please open an issue and let us know
 
