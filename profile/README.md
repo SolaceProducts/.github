@@ -9,9 +9,9 @@
 
 </div>
 
-## Hi there 👋 Welcome to the Solace Labs! 
+## Hi there 👋 Welcome to the SolaceProducts Github Organization! 
 
-Solace Labs offers a list of community supported, open source projects. You can use these projects to integrate with, and use, Solace PubSub+ products.
+SolaceProducts offers a repositories containing open source Solace Products. You can use these projects to integrate with, and use, Solace PubSub+ products.
 
 
 **To get started:**
@@ -22,6 +22,8 @@ Solace Labs offers a list of community supported, open source projects. You can 
 
 🥳 Contribute to a project by opening a pull-request
 
-⚙️ Fix any issue or bug you can
+🪲 Find a bug? Please open an issue and let us know
+
+🤝 Need help and have support? [Open a support ticket](https://solace.com/support/)
 
 🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)
