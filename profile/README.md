@@ -17,7 +17,7 @@
 
 ## Welcome to the SolaceProducts Github Organization! 
 
-SolaceProducts offers repositories containing open source Solace Products. You can use these projects to integrate with, and use, Solace PubSub+ products.
+SolaceProducts offers repositories containing open source Solace Products. You can use these projects to integrate with, and use, Solace products.
 
 
 **To get started:**
